@@ -31,4 +31,5 @@ public class AssignmentIteration1 {
         }
     }
 }
+This is coding contest and thanks Naveen reddy sir.
 
